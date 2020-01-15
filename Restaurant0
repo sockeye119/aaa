@@ -1,0 +1,36 @@
+# Restaurant0 = High Five Salad 
+
+food1 = Food('High Five Power Salad', 1580, 476)
+food2 = Food('Smoked Duck & Honey Nut Salad', 1080, 220)
+food3 = Food("Grilled Chicken & Egg Salad", 980, 262)
+food4 = Food('Prosciutto & Mimolette Cheese Salad', 980, 139)
+food5 = Food('Garlic Shrimp Salad', 1280, 113)
+
+foods = [food1, food2, food3, food4, food5]
+
+# choose dressing
+dressing1 = Dressing('Classic Caesar')
+dressing2 = Dressing('Onion Soy')
+dressing3 = Dressing('Creamy Seasame')
+dressing4 = Dressing('Honey Mustard')
+dressing5 = Dressing('Balsamic Vinaigrette')
+
+dressings = [dressing1, dressing2, dressing3, dressing4, dressing5] 
+
+# choose toppings
+topping1 = Topping('Quinoa', 200, 14)
+topping2 = Topping('Boiled Egg', 100, 97)
+topping3 = Topping('Crouton', 100, 41)
+topping4 = Topping('Mixed Nuts', 100, 23)
+topping5 = Topping('Avocado', 250, 109)
+
+toppings = [toppings1, toppings2, toppings3, toppings4, toppings5] 
+
+# add-ons
+addon1 = addOn('Green Smoothie', 360, 126)
+addon2 = addOn('Bread', 80, 100)
+addon3 = addOn('Homemade Soup', 360, 234)
+addon4 = addOn('Iced Coffee', 100, 15)
+addon5 = addOn('Seasonal Smoothie', 500, 245)
+
+addons = [addon1, addon2, addon3, addon4, addon5] 
