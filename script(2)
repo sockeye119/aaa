@@ -3,6 +3,30 @@ from food import Food
 from drink import Drink
 #---------------------------------------------------------------------
 
+#Restaurant 2: 都電テーブル早稲田 Toden Table Waseda 
+foods_2 = [['豚汁定食 (Miso Soup with Pork and Vegetables Set Menu)', 1000, 510],
+           ['鶏と豆腐の揚げ出し定食　(Chicken and Deep-fried Tofu Set Menu)', 1000, 400],
+           ['鯖の塩焼き (Grilled Saba Fish Set Menu)', 1100, 550],
+           ['カキフライ定食 (Deep-fried Oyster Set Menu)', 1200, 620],
+           ['カレーライス (Curry Rice)', 900, 600]
+           ]
+
+drinks_2 = [['100% Apple Juice', 500, 50],
+            ['100% Mikan Juice', 500, 50],
+            ['Ginger Soda', 400, 40],
+            ]
+
+#Restaurant 3: どんどんどんDon Don Don 
+foods_3 = [['ビビンパ　(Bibimpa)', 600, 600],
+           ['辛ラーメン定食 (Shin Ramen Noodles Set Menu)', 600, 700],
+           ['冷麺　(Cold Noodles)', 800, 50],
+           ['純豆腐チゲ　(Spicy Tofu Soup)', 800, 520],
+           ['牛ブルゴキ定食　(Bulgogi Set Menu)', 1000, 890]
+           ]
+
+drinks_3 = [['Mineral Water', 200, 0],
+            ['Oolong Tea', 200, 0],
+            ]
 #Restaurant 4: Good Morning Cafe 
 foods_4 = [['GMC Omelette Rice (soup set)',900,630],
            ['GMC Burger (soup and french fries set)',1100,550],
