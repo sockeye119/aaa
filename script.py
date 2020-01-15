@@ -1,5 +1,9 @@
 from food import Food
 from drink import Drink
+from side import Side
+from topping import Topping 
+from dressing import Dressing
+from addon import Addon
 
 print('Hello, welcome to W-Delivers!')
 print('----------------------------------------------------------')
