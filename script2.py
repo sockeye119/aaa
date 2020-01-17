@@ -6,6 +6,7 @@ from food import AddOn
 from food import Side
 from food import Dessert
 from drink import Drink
+from menu_item import MenuItem
 #---------------------------------------------------------------------
 
 #Restaurant 0: High Five Salad
